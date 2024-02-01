@@ -26,8 +26,6 @@ Here's a walkthrough of implemented features:
 <img src='/demo.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-
-![Video Walkthrough](https://imgur.com/a/W7B6nhN)
 GIF created with [Kap](https://getkap.co/) for macOS
 
 ## Notes
